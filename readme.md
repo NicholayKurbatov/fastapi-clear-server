@@ -1,5 +1,5 @@
 # Template fastapi server 
-The structure of the fistful api server project on fastapi.
+The structure of the fistfull api server project on fastapi.
 
 ---
 
