@@ -10,4 +10,4 @@ router = APIRouter(
 
 @router.get("/")
 async def text():
-    return {"message": "Hello World"}
+    return {"message": "Hello endpoint1"}
